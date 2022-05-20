@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="525mm"
+   height="265mm"
+   viewBox="0 0 525 265"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="LLMBlogPost.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   sodipodi:docname="LLMBlogPost.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.27577164"
+     inkscape:cx="1414.2136"
+     inkscape:cy="609.19969"
+     inkscape:window-width="1055"
+     inkscape:window-height="856"
+     inkscape:window-x="639"
+     inkscape:window-y="61"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="marker8295"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path8293" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7496"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect7484"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect7474"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#ff80b2;stroke-width:0.264583"
+       id="path257"
+       cx="258.41351"
+       cy="63.910034"
+       r="60" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+       d="m 257.8532,3.9755336 0.67842,62.4145284"
+       id="path733" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+       d="m 257.84837,64.648571 54.39178,30.619716"
+       id="path1413" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+       d="m 205.27091,96.534231 53.71336,-31.79478"
+       id="path1415" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#ff8900;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1469"
+       width="86.159187"
+       height="63.771366"
+       x="5.2916632"
+       y="172.49536" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#ff8900;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2459"
+       width="86.159187"
+       height="63.771366"
+       x="109.83339"
+       y="172.49536" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#ff8900;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2461"
+       width="86.159187"
+       height="63.771366"
+       x="214.83362"
+       y="172.49536" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#ff8900;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2463"
+       width="86.159187"
+       height="63.771366"
+       x="319.83301"
+       y="172.49536" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#ff8900;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2465"
+       width="86.159187"
+       height="63.771366"
+       x="424.83301"
+       y="172.49536" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.76111px;fill:#ffffff;fill-opacity:1;stroke:#ff8900;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+       x="229.04689"
+       y="45.182648"
+       id="text2521"><tspan
+         sodipodi:role="line"
+         id="tspan2519"
+         style="font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:2"
+         x="229.04689"
+         y="45.182648">Best</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:2"
+         x="229.04689"
+         y="54.884033"
+         id="tspan2523">Practices</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.76111px;fill:#ffffff;fill-opacity:1;stroke:#ff8900;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+       x="286.27762"
+       y="45.033394"
+       id="text2579"><tspan
+         sodipodi:role="line"
+         style="font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:2"
+         x="286.27762"
+         y="45.033394"
+         id="tspan2577">Appropriate</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:2"
+         x="286.27762"
+         y="54.734779"
+         id="tspan4137">Use</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.76111px;fill:#ffffff;fill-opacity:1;stroke:#ff8900;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+       x="258.69315"
+       y="95.155182"
+       id="text4143"><tspan
+         sodipodi:role="line"
+         style="font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:2"
+         x="258.69315"
+         y="95.155182"
+         id="tspan4147">Algorithm</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:2"
+         x="258.69315"
+         y="104.85657"
+         id="tspan4151">Transparency</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ff8900;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+       x="9.0760164"
+       y="181.38271"
+       id="text4157"><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:2"
+         x="9.0760164"
+         y="181.38271"
+         id="tspan4265">Best Practices</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:2"
+         x="9.0760164"
+         y="190.20215"
+         id="tspan5744" /><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:2"
+         x="9.0760164"
+         y="199.02161"
+         id="tspan4269">Guidelines</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:2"
+         x="9.0760164"
+         y="207.84105"
+         id="tspan5746" /><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:2"
+         x="9.0760164"
+         y="216.66051"
+         id="tspan4273">Ethical Considerations</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ff8900;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+       x="113.32191"
+       y="190.37842"
+       id="text4281"><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:2"
+         x="113.32191"
+         y="190.37842"
+         id="tspan5740">Instantiation of best </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:2"
+         x="113.32191"
+         y="199.19786"
+         id="tspan11152">practices</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:2"
+         x="113.32191"
+         y="208.01732"
+         id="tspan5748" /><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:2"
+         x="113.32191"
+         y="216.83676"
+         id="tspan5742">Direct Implementation</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ff8900;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+       x="218.09569"
+       y="181.38271"
+       id="text5758"><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:2"
+         x="218.09569"
+         y="181.38271"
+         id="tspan5756">Post development</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:2"
+         x="218.09569"
+         y="190.20215"
+         id="tspan7446">assessment &amp; eval.</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:2"
+         x="218.09569"
+         y="199.02161"
+         id="tspan7448" /><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:2"
+         x="218.09569"
+         y="207.84105"
+         id="tspan7450">Characterization of</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:2"
+         x="218.09569"
+         y="216.66051"
+         id="tspan7452">data &amp; models</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 49.063229,166.38872 V 44.952002 H 192.20943"
+       id="path5877" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 152.25108,166.38872 v -53.17447 h 59.53816"
+       id="path6585"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 258.08508,167.97623 V 131.73509"
+       id="path7429"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ff8900;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+       x="323.40039"
+       y="191.43674"
+       id="text7470"><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:2"
+         x="323.40039"
+         y="191.43674"
+         id="tspan7462">Detailed algorithmic</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:2"
+         x="323.40039"
+         y="200.25618"
+         id="tspan9500">analysis &amp; study</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:2"
+         x="323.40039"
+         y="209.07564"
+         id="tspan9504"></tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:2"
+         x="323.40039"
+         y="217.89508"
+         id="tspan11158">Determination of</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:2"
+         x="323.40039"
+         y="226.71454"
+         id="tspan11160">inappropriate uses</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#afafaf;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8295)"
+       d="m 184.33987,161.63977 c 15.16182,-16.62908 41.40924,-16.76079 59.70085,2.03526"
+       id="path8291"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#ff5599;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8395"
+       width="60.379272"
+       height="27.815168"
+       x="147.02711"
+       y="154.85646"
+       ry="5.4273467" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.76111px;fill:#ffffff;fill-opacity:1;stroke:#ff8900;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+       x="175.95367"
+       y="171.15204"
+       id="text8453"><tspan
+         sodipodi:role="line"
+         style="font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:2"
+         x="175.95367"
+         y="171.15204"
+         id="tspan8451">Algorithms</tspan></text>
+    <rect
+       style="fill:#ff5599;fill-opacity:1;stroke:none;stroke-width:1.04659;stroke-dasharray:none;stroke-opacity:1"
+       id="rect9383"
+       width="66.135849"
+       height="27.815168"
+       x="455.70639"
+       y="223.09547"
+       ry="5.4273467" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.76111px;fill:#ffffff;fill-opacity:1;stroke:#ff8900;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+       x="487.21448"
+       y="235.68645"
+       id="text9387"><tspan
+         sodipodi:role="line"
+         style="font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:2"
+         x="487.21448"
+         y="235.68645"
+         id="tspan9385">Responsible AI</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:2"
+         x="487.21448"
+         y="245.38783"
+         id="tspan11070">Licenses</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ff8900;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+       x="427.64682"
+       y="182.80188"
+       id="text9516"><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:2"
+         x="427.64682"
+         y="182.80188"
+         id="tspan11038">Allow/restrict use</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:2"
+         x="427.64682"
+         y="191.62132"
+         id="tspan11040" /><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:2"
+         x="427.64682"
+         y="200.44078"
+         id="tspan11044">Enforcement of </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:2"
+         x="427.64682"
+         y="209.26022"
+         id="tspan11046">appropriate uses</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#afafaf;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8295)"
+       d="m 392.53598,161.63977 c 15.16182,-16.62908 41.40924,-16.76079 59.70085,2.03526"
+       id="path11054"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#afafaf;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8295)"
+       d="m 77.843376,245.56209 c 15.161736,16.62908 41.409114,16.76079 59.700724,-2.03526"
+       id="path11060"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#ff5599;fill-opacity:1;stroke:none;stroke-width:1.09845;stroke-dasharray:none;stroke-opacity:1"
+       id="rect9365"
+       width="72.851852"
+       height="27.815168"
+       x="29.806458"
+       y="224.05486"
+       ry="5.4273467" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.76111px;fill:#ffffff;fill-opacity:1;stroke:#ff8900;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+       x="66.443092"
+       y="236.11667"
+       id="text9369"><tspan
+         sodipodi:role="line"
+         style="font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:2"
+         x="66.443092"
+         y="236.11667"
+         id="tspan9367">Ethical Standards</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:2"
+         x="66.443092"
+         y="245.81805"
+         id="tspan11066">&amp; Guidelines</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#afafaf;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8295)"
+       d="m 286.03936,245.661 c 15.16182,16.62908 41.40924,16.76079 59.70085,-2.03526"
+       id="path11126"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#ff5599;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="rect9371"
+       width="60.379272"
+       height="27.815168"
+       x="253.26694"
+       y="224.05486"
+       ry="5.4273467" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.76111px;fill:#ffffff;fill-opacity:1;stroke:#ff8900;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+       x="282.7226"
+       y="240.8791"
+       id="text9375"><tspan
+         sodipodi:role="line"
+         style="font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:2"
+         x="282.7226"
+         y="240.8791"
+         id="tspan9373">Bias Toolkits</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 466.47726,166.38872 V 44.952002 H 323.33083"
+       id="path11136" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       d="M 363.38991,167.97623 V 44.4228"
+       id="path11142"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#ff5599;fill-opacity:1;stroke:none;stroke-width:1.03897;stroke-dasharray:none;stroke-opacity:1"
+       id="rect9377"
+       width="65.176414"
+       height="27.815168"
+       x="353.04745"
+       y="154.9763"
+       ry="5.4273467" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.76111px;fill:#ffffff;fill-opacity:1;stroke:#ff8900;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+       x="386.242"
+       y="166.50943"
+       id="text9381"><tspan
+         sodipodi:role="line"
+         style="font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:2"
+         x="386.242"
+         y="166.50943"
+         id="tspan9379">AI Factsheets</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:2"
+         x="386.242"
+         y="176.21082"
+         id="tspan11068">&amp; Model Cards</tspan></text>
+  </g>
+</svg>
